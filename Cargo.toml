@@ -1,0 +1,6 @@
+[package]
+name = "tools-r-ds"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS R statistical computing and ggplot2 bridge"
+license = "GPL-3.0-or-later"
