@@ -3,7 +3,7 @@ name = "SigmaOS-tools-r-ds"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-r-ds component"
+description = "tools r ds component"
 upstream = []
 
 [contract]
