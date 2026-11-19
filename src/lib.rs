@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 /// R data frame model and ggplot2 layer builder for SigmaOS statistics bridge.
 use std::collections::HashMap;
 
